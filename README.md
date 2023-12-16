@@ -20,12 +20,12 @@ The goal of this project is to develop a deep learning tracking algorithm for tw
 **Required Software and Hardware:**
 
 - Software: Python
-- Hardware: Laptop with CUDA-enabled GPU
+- Hardware: colab with gpu
 
 **References:**
 
 - Paper: [TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359.pdf)
-- Code Repository: [GitHub Repository](https://github.com/castacks/tartanvo)
+-
 - Datasets:
   1. [EuRoC Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
   2. [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
